@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+transformers
+torch
+pandas
+numpy
+scikit-learn
+spacy
+streamlit
+plotly
+textblob
+bertopic
+sentence-transformers
+xgboost
+requests
+python-multipart
