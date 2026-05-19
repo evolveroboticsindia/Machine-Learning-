@@ -12,22 +12,6 @@ A FastAPI-based service for analyzing customer reviews using NLP and machine lea
 - **Fake Review Detection** — Flags potentially inauthentic reviews with a reason
 - **Insights Generation** — Produces a human-readable summary of the full analysis
 
----
-
-## Project Structure
-
-```
-.
-├── src/
-│   └── api/
-│       └── api.py          # FastAPI route definitions
-├── app.py                  # Dev server entrypoint (uvicorn with --reload)
-├── models.py               # Pydantic request/response models
-├── requirements.txt        # Python dependencies
-└── Dockerfile              # Container build instructions
-```
-
----
 
 ## Requirements
 
@@ -113,6 +97,7 @@ Analyzes a review and returns a full breakdown.
 
 ---
 
-## License
+## Dataset used.
+https://www.kaggle.com/datasets/rogate16/amazon-reviews-2018-full-dataset?select=amazon_reviews.csv
 
-MIT
+
