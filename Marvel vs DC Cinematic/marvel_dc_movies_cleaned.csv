@@ -1,0 +1,42 @@
+Movie,Franchise,Release_Year,Budget_Million,Box_Office_Million,IMDb_Rating,Rotten_Tomatoes_Pct,Director,Profit_Million,ROI_Pct
+Iron Man,Marvel,2008,140,585.8,7.9,94,Jon Favreau,445.79999999999995,318.42857142857144
+The Avengers,Marvel,2012,220,1518.8,8.0,91,Joss Whedon,1298.8,590.3636363636364
+Avengers: Age of Ultron,Marvel,2015,250,1402.8,7.3,76,Joss Whedon,1152.8,461.12
+Captain America: Civil War,Marvel,2016,250,1153.3,7.8,90,Anthony & Joe Russo,903.3,361.32
+Black Panther,Marvel,2018,200,1347.3,7.3,96,Ryan Coogler,1147.3,573.65
+Avengers: Infinity War,Marvel,2018,325,2048.4,8.4,85,Anthony & Joe Russo,1723.4,530.2769230769231
+Avengers: Endgame,Marvel,2019,356,2797.8,8.4,94,Anthony & Joe Russo,2441.8,685.8988764044944
+Spider-Man: No Way Home,Marvel,2021,200,1916.3,8.2,93,Jon Watts,1716.3,858.15
+Doctor Strange in the Multiverse of Madness,Marvel,2022,200,955.8,6.9,73,Sam Raimi,755.8,377.9
+Thor: Love and Thunder,Marvel,2022,250,760.9,6.2,63,Taika Waititi,510.9,204.36
+Black Panther: Wakanda Forever,Marvel,2022,250,859.2,6.7,84,Ryan Coogler,609.2,243.68000000000004
+Guardians of the Galaxy Vol. 3,Marvel,2023,250,845.6,7.9,82,James Gunn,595.6,238.24
+The Marvels,Marvel,2023,220,206.1,5.6,62,Nia DaCosta,-13.900000000000006,-6.318181818181821
+Spider-Man,Marvel,2002,139,825.0,7.4,90,Sam Raimi,686.0,493.52517985611513
+Spider-Man 2,Marvel,2004,200,789.0,7.4,93,Sam Raimi,589.0,294.5
+X-Men: Days of Future Past,Marvel,2014,200,746.0,7.9,90,Bryan Singer,546.0,273.0
+Deadpool,Marvel,2016,58,782.6,8.0,85,Tim Miller,724.6,1249.3103448275863
+Logan,Marvel,2017,97,619.0,8.1,94,James Mangold,522.0,538.1443298969073
+Batman Begins,DC,2005,150,373.7,8.2,84,Christopher Nolan,223.7,149.13333333333333
+The Dark Knight,DC,2008,185,1006.2,9.0,94,Christopher Nolan,821.2,443.8918918918919
+The Dark Knight Rises,DC,2012,250,1081.1,8.4,87,Christopher Nolan,831.0999999999999,332.44
+Man of Steel,DC,2013,225,668.0,7.1,56,Zack Snyder,443.0,196.88888888888889
+Batman v Superman: Dawn of Justice,DC,2016,250,873.6,6.5,29,Zack Snyder,623.6,249.44000000000003
+Suicide Squad,DC,2016,175,746.8,5.9,26,David Ayer,571.8,326.74285714285713
+Wonder Woman,DC,2017,149,822.8,7.4,93,Patty Jenkins,673.8,452.2147651006711
+Justice League,DC,2017,300,657.9,6.1,39,Zack Snyder / Joss Whedon,357.9,119.29999999999998
+Aquaman,DC,2018,160,1148.5,6.8,65,James Wan,988.5,617.8125
+Shazam!,DC,2019,100,366.0,7.0,90,David F. Sandberg,266.0,266.0
+Joker,DC,2019,55,1074.4,8.4,69,Todd Phillips,1019.4000000000001,1853.4545454545455
+Wonder Woman 1984,DC,2020,200,169.6,5.4,58,Patty Jenkins,-30.400000000000006,-15.200000000000003
+The Suicide Squad,DC,2021,185,168.7,7.2,90,James Gunn,-16.30000000000001,-8.810810810810816
+The Batman,DC,2022,200,772.2,7.8,85,Matt Reeves,572.2,286.1
+Black Adam,DC,2022,195,393.3,6.2,38,Jaume Collet-Serra,198.3,101.69230769230771
+Shazam! Fury of the Gods,DC,2023,125,133.8,6.0,49,David F. Sandberg,8.800000000000011,7.040000000000009
+The Flash,DC,2023,200,271.3,6.7,63,Andy Muschietti,71.30000000000001,35.650000000000006
+Blue Beetle,DC,2023,104,129.3,6.0,72,Angel Manuel Soto,25.30000000000001,24.326923076923087
+Aquaman and the Lost Kingdom,DC,2023,205,434.4,5.6,34,James Wan,229.39999999999998,111.90243902439023
+Watchmen,DC,2009,130,185.3,7.6,65,Zack Snyder,55.30000000000001,42.53846153846155
+Green Lantern,DC,2011,200,219.9,5.5,26,Martin Campbell,19.900000000000006,9.950000000000003
+Superman Returns,DC,2006,204,391.1,6.1,75,Bryan Singer,187.10000000000002,91.7156862745098
+Catwoman,DC,2004,100,82.1,3.4,8,Pitof,-17.900000000000006,-17.900000000000006

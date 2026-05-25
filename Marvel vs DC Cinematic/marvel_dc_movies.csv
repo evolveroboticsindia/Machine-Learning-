@@ -1,0 +1,44 @@
+Movie,Franchise,Release_Year,Budget_Million,Box_Office_Million,IMDb_Rating,Rotten_Tomatoes_Pct,Director
+Iron Man,Marvel,2008,$140M,585.8,7.9,94%,Jon Favreau
+The Avengers,Marvel,2012,$220,1518.8,8.0,91%,Joss Whedon
+Avengers: Age of Ultron,Marvel,2015,$250M,1402.8,7.3,76%,Joss Whedon
+Captain America: Civil War,marvel,2016,$250M,1153.3,7.8,90%,Anthony & Joe Russo
+Black Panther,Marvel,2018,$200M,1347.3,7.3,96%,Ryan Coogler
+Avengers: Infinity War,Marvel,2018,$325,2048.4,8.4,85%,Anthony & Joe Russo
+Avengers: Endgame,Marvel,2019,$356M,2797.8,8.4,94%,Anthony & Joe Russo
+Spider-Man: No Way Home,Marvel,2021,$200M,1916.3,8.2,93%,Jon Watts
+Doctor Strange in the Multiverse of Madness,Marvel,2022,$200M,955.8,6.9,73%,Sam Raimi
+Thor: Love and Thunder,Marvel,2022,$250M,760.9,6.2,63%,Taika Waititi
+Black Panther: Wakanda Forever,Marvel,2022,$250M,859.2,6.7,84%,Ryan Coogler
+Guardians of the Galaxy Vol. 3,Marvel,2023,$250M,845.6,7.9,82%,James Gunn
+The Marvels,marvel,2023,$220M,206.1,5.6,62%,Nia DaCosta
+Spider-Man,Marvel,2002,$139,825.0,7.4,90%,Sam Raimi
+Spider-Man 2,Marvel,2004,$200,789.0,7.4,93%,Sam Raimi
+X-Men: Days of Future Past,Marvel,2014,$200M,746.0,7.9,90%,Bryan Singer
+Deadpool,Marvel,2016,$58M,782.6,8.0,85%,Tim Miller
+Logan,Marvel,2017,$97M,619.0,8.1,94%,James Mangold
+Batman Begins,DC,2005,$150M,373.7,8.2,84%,Christopher Nolan
+The Dark Knight,dc,2008,$185M,1006.2,9.0,94%,Christopher Nolan
+The Dark Knight Rises,DC,2012,$250M,1081.1,8.4,87%,Christopher Nolan
+Man of Steel,DC,2013,$225M,668.0,7.1,56%,Zack Snyder
+Batman v Superman: Dawn of Justice,DC,2016,$250M,873.6,6.5,29%,Zack Snyder
+Suicide Squad,DC,2016,$175M,746.8,5.9,26%,David Ayer
+Wonder Woman,DC,2017,$149M,822.8,7.4,93%,Patty Jenkins
+Justice League,dc,2017,$300M,657.9,6.1,39%,Zack Snyder / Joss Whedon
+Aquaman,DC,2018,$160M,1148.5,6.8,65%,James Wan
+Shazam!,DC,2019,$100M,366.0,7.0,90%,David F. Sandberg
+Joker,DC,2019,$55M,1074.4,8.4,69%,Todd Phillips
+Wonder Woman 1984,DC,2020,$200M,169.6,5.4,58%,Patty Jenkins
+The Suicide Squad,DC,2021,$185M,168.7,7.2,90%,James Gunn
+The Batman,DC,2022,$200M,772.2,7.8,85%,Matt Reeves
+Black Adam,dc,2022,$195M,393.3,6.2,38%,Jaume Collet-Serra
+Shazam! Fury of the Gods,DC,2023,$125M,133.8,6.0,49%,David F. Sandberg
+The Flash,DC,2023,$200M,271.3,6.7,63%,Andy Muschietti
+Blue Beetle,DC,2023,$104,129.3,6.0,72%,Angel Manuel Soto
+Aquaman and the Lost Kingdom,DC,2023,$205M,434.4,5.6,34%,James Wan
+Watchmen,DC,2009,$130M,185.3,7.6,65%,Zack Snyder
+Green Lantern,DC,2011,$200M,219.9,5.5,26%,Martin Campbell
+Superman Returns,DC,2006,$204M,391.1,6.1,75%,Bryan Singer
+Catwoman,DC,2004,$100M,82.1,3.4,8%,Pitof
+Iron Man,Marvel,2008,$140M,585.8,7.9,94%,Jon Favreau
+The Dark Knight,dc,2008,$185M,1006.2,9.0,94%,Christopher Nolan
